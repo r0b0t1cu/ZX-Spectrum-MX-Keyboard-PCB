@@ -2,7 +2,7 @@
 
 A simple, open-source PCB for the ZX Spectrum keyboard, designed to accept Cherry MX-compatible mechanical switches. This is not a drop-in replacement — it is intended for custom builds, modding experiments, and quick prototyping where you want tactile, clicky, or linear switches instead of the original rubber membrane.
 
-![PCB Render](pcb_render.png)
+![PCB Render](keyboard_zx_f.jpg)
 
 ---
 
@@ -31,6 +31,8 @@ The design is deliberately minimal: a passive key matrix, a standard pin header 
 - 4 mounting holes at the corners
 - Rounded PCB edges
 
+![PCB Render](keyboard_zx_b.jpg)
+
 ---
 
 ## How to Use
@@ -39,6 +41,8 @@ The design is deliberately minimal: a passive key matrix, a standard pin header 
 2. **Solder the pin header** — standard 2.54mm pitch.
 3. **Solder the switches** — snap in your Cherry MX (or compatible) switches and solder.
 4. **Connect** — wire the pin header to your ZX Spectrum / Clone mainboard and have fun.
+
+[📦 Download Gerbers](_tastatura_zx_.zip)
 
 ---
 
